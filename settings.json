@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "bashmaghland.aternos.me",
+    "ip": "bashmaghland1.aternos.me",
     "port": 39354,
     "version": "1.21.11",
     "try-creative": false
